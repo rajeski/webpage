@@ -1,0 +1,61 @@
+/* style.css */
+body{
+  margin: 0px;
+  color: black;
+  background: rgb(225,225,225);
+  font-family: Roboto, sans-serif;
+}
+h1{
+  font-family: 'Pathway Gothic One', sans-serif;
+  color: red;
+}
+p{
+  font-size: 20px;
+  line-height: 20px;
+}
+
+a {
+  text-decoration: none; 
+  color: blue; 
+}
+
+a:hover {
+  text-decoration: none; 
+  color: green;
+}
+
+#banner {
+  text-align: center;
+  background-image: url("https://unsplash.it/700/?random");  
+  background-size: cover;
+  padding: 150px 0;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
+#banner h1 {
+  color: red;
+}
+#banner p {
+  color: black;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+.feature{
+  padding: 50px;
+  font-weight: 300px;
+}
+
+#footer {
+  background: grey;
+  color: yellow;
+  font-size: 20px;
+  padding: 20px; 
+}
+#footer a {
+  font-size: 20px;
+  color: blue;
+}
+#footer a:hover {
+  color: white;
+}
