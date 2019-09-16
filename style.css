@@ -30,7 +30,7 @@ a:hover {
   background-size: cover;
   padding: 150px 0;
   color: white;
-  text-shadow: 2px 2px 2px black;
+  text-shadow: 1px 1px 1px black;
 }
 #banner h1 {
   color: red;
